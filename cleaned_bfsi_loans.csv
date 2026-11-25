@@ -1,0 +1,10 @@
+loan_id,branch,loan_type,sanctioned_amt,outstanding_amt,dpd,cibil_score,loan_status
+L101,Andheri,Personal Loan,500000,320000.0,0,760.0,Standard
+L102,Borivali,Home Loan,4500000,4100000.0,15,790.0,Standard
+L103,Andheri,Personal Loan,300000,285000.0,95,610.0,NPA
+L104,Malad,Auto Loan,800000,560000.0,42,685.0,SMA
+L105,Borivali,Home Loan,6000000,5800000.0,110,590.0,NPA
+L106,Dahisar,Personal Loan,250000,110000.0,0,667.5,Standard
+L107,Malad,Auto Loan,950000,720000.0,68,650.0,SMA
+L108,Dahisar,Personal Loan,400000,390000.0,125,580.0,NPA
+L109,Bkc,Home Loan,7500000,7100000.0,0,810.0,Standard
